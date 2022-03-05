@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TuringMachine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/turingmachines.jar!/" />
+      <root url="jar://$PROJECT_DIR$/W1-Resources.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
